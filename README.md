@@ -1,8 +1,8 @@
 ## **Hi there and welcome to my GitHub profile! 👋**  
 
-### _My name is **Nhi Huynh** and I am currently embarking on a new career change into the world of Technology.  
+### __My name is **Nhi Huynh** and I am currently embarking on a new career change into the world of Technology.  
 Currently undertaking studies to complete my Diploma of Web Development through Coder Academy.  
-I am starting out as a beginner and am excited to learn and grow my knowledge and experience._  
+I am starting out as a beginner and am excited to learn and grow my knowledge and experience.__ 
 
 #### Connect with me and follow me on my journey as I showcase my progress and projects!  
   
