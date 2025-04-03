@@ -6,12 +6,12 @@ I am starting out as a beginner and am excited to learn and grow my knowledge an
 
 #### Connect with me and follow me on my journey as I showcase my progress and projects!  
   
-🔭 **I’m currently working on:** _designing my own website_
-🌱 **I’m currently learning:** _HTML & CSS_  
-🤔 **I’m looking for help with:** _any tips/advice for a new beginner_  
-💬 **Ask me about:** _my learning journey so far_  
-😄 **Pronouns:** _She/Her_  
-⚡ **Fun fact:** _I've hiked to the top of Bluff Knoll (highest point in Western Australia's South West; 1,099 metres/3,606 ft above sea level) and I've gone skydiving from 14,000ft (absolutely loved the adrenaline rush!)_  
++ 🔭 **I’m currently working on:** _designing my own website_
++ 🌱 **I’m currently learning:** _HTML & CSS_  
++ 🤔 **I’m looking for help with:** _any tips/advice for a new beginner_  
++ 💬 **Ask me about:** _my learning journey so far_  
++ 😄 **Pronouns:** _She/Her_  
++ ⚡ **Fun fact:** _I've hiked to the top of Bluff Knoll (highest point in Western Australia's South West; 1,099 metres/3,606 ft above sea level) and I've gone skydiving from 14,000ft (absolutely loved the adrenaline rush!)_  
 
 
 <!--
